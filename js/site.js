@@ -4,7 +4,7 @@ import App from "./App";
 
 import * as ExampleComponent from "../components/ExampleComponent";
 
-import "../scss/index.scss";
+import "./styles.scss";
 
 window.App = App;
 
