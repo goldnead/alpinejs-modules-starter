@@ -1,0 +1,10 @@
+/node_modules
+/public/hot
+/public/static/
+/public/build
+/public/vendor/*
+.DS_Store
+.env
+.env.backup
+npm-debug.log
+yarn-error.log
