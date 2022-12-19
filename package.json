@@ -13,7 +13,7 @@
     "vite": "^3.0.0"
   },
   "dependencies": {
-    "alpinejs": "^3.10.2",
+    "alpinejs": "^3.10.2"
   },
   "browserslist": {
     "production": [
